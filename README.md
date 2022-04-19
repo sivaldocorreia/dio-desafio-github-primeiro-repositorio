@@ -10,6 +10,6 @@ Repositório criado para o desafio de projeto da **DIO**
  </ol>
  
  ### Links úteis
- [Sintaxe markdown](https://www.markdownguide.org) 
+ [Sintaxe markdown](https://www.markdownguide.org) <br> 
  [Scrimba](https://scrimba.com/learn/javascript)
  
